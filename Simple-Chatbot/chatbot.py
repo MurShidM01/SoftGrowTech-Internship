@@ -14,4 +14,8 @@ while True:
         break
 
     else:
+<<<<<<< HEAD
         print("Bot: Sorry, I don't understand.")
+=======
+        print("Bot: Sorry, I don't understand.")
+>>>>>>> 7582939aad547ee92a626311dea219072e5ed2c8
