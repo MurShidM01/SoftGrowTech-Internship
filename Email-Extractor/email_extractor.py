@@ -18,8 +18,4 @@ if os.path.exists(input_file):
 
     print("Email addresses extracted and saved to", output_file)
 else:
-<<<<<<< HEAD
     print("Input file not found.")
-=======
-    print("Input file not found.")
->>>>>>> 7582939aad547ee92a626311dea219072e5ed2c8
