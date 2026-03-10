@@ -24,16 +24,28 @@ Modern, focused internship tasks and mini-projects built at SoftGrowTech. Each p
    Folder: `Email-Extractor`
    README: `Email-Extractor/README.md`
 
-**Getting Started**
+3. **Geolocation**
+   A Python tool that fetches IP location data and generates an interactive map.
+   Folder: `Geolocation`
+   README: `Geolocation/README.md`
 
-1. Install Python 3.8+.
-2. Open a terminal in the project folder you want to run.
-3. Follow the instructions in that project’s README.
+4. **Memory Puzzle**
+   A GUI-based memory matching card game with timer and emoji cards.
+   Folder: `Memory-Puzzle`
+   README: `Memory-Puzzle/README.md`
+
+5. **Expense Tracker**
+   A CLI-based personal expense tracker to add, view, and calculate expenses.
+   Folder: `Expense-Tracker`
+   README: `Expense-Tracker/README.md`
 
 **Repository Structure**
 
 - `Simple-Chatbot/`
 - `Email-Extractor/`
+- `Geolocation/`
+- `Memory-Puzzle/`
+- `Expense-Tracker/`
 - `README.md`
 
 **Notes**
